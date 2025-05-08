@@ -11,7 +11,8 @@ Solução :
  Sistemas de recomendação, para impulsionar novas contratações e aumentar o engajamento
  E a apresentação dos dados foi feita com o IBM Cognos Analytics, garantindo clareza para os tomadores de decisão
 
- ![image](https://github.com/user-attachments/assets/2473ff8c-d937-4da6-b337-26c458fb11d7)
+https://gamma.app/docs/Transformacao-do-Suporte-ao-Cliente-com-Inteligencia-Artificial-qixlx1i7u006ol9
+
 
 E buscando unir a solução a um ambiente sustentável sugerimos a utilização de refrigeração magnetocalórico aos DataCenters.
  
